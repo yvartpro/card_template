@@ -1,0 +1,6 @@
+{
+  "name": "macarte",
+  "description": "Visual ID card template editor for designing Student and Staff cards with dynamic field mapping and JSON export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
